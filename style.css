@@ -815,8 +815,10 @@ MEMORY PHOTO
 width: 100%;
 
 height: 390px;
+  height:auto;
 
 margin-top: 25px;
+  margin-bottom:25px;
 
 display: flex;
 
